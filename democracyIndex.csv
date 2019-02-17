@@ -1,0 +1,168 @@
+Country,plularism,effectiveness,participation,culture,liberties,Category
+Norway,10.0,9.64,10.0,10.0,9.71,4
+Iceland,10.0,9.29,8.89,10.0,9.71,4
+Sweden,9.58,9.64,8.33,10.0,9.41,4
+New Zealand,10.0,9.29,8.89,8.13,10.0,4
+Denmark,10.0,9.29,8.33,9.38,9.12,4
+Ireland,9.58,7.86,8.33,10.0,10.0,4
+Canada,9.58,9.64,7.78,8.75,10.0,4
+Finland,10.0,8.93,8.33,8.75,9.71,4
+Australia,10.0,8.93,7.78,8.75,10.0,4
+Switzerland,9.58,9.29,7.78,9.38,9.12,4
+Netherlands,9.58,9.29,8.33,8.13,9.12,4
+Luxembourg,10.0,8.93,6.67,8.75,9.71,4
+Germany,9.58,8.57,8.33,7.5,9.41,4
+United Kingdom,9.58,7.5,8.33,8.13,9.12,4
+Uruguay,10.0,8.57,6.11,7.5,9.71,4
+Austria,9.58,7.86,8.33,6.88,8.82,4
+Mauritius,9.17,8.21,5.56,8.75,9.41,4
+Malta,9.17,8.21,6.11,8.75,8.82,4
+Spain,9.17,7.14,7.78,7.5,8.82,4
+Costa Rica,9.58,7.5,6.67,7.5,9.12,4
+South Korea,9.17,7.86,7.22,7.5,8.24,3
+Japan,8.75,8.21,6.67,7.5,8.82,2
+Chile,9.58,8.57,4.44,8.13,9.12,2
+Estonia,9.58,8.21,6.67,6.88,8.53,2
+United States,9.17,7.14,7.78,7.5,8.24,2
+Cape Verde,9.17,7.86,6.67,6.88,8.82,2
+Portugal,9.58,7.5,6.11,6.88,9.12,2
+Botswana,9.17,7.14,6.11,7.5,9.12,2
+France,9.58,7.5,7.78,5.63,8.53,2
+Israel,9.17,7.5,8.89,7.5,5.88,2
+Belgium,9.58,8.93,5.0,6.88,8.53,2
+Republic of China (Taiwan),9.58,8.21,6.11,5.63,9.12,2
+Italy,9.58,6.07,7.78,6.88,8.24,2
+Czech Republic,9.58,6.79,6.67,6.88,8.53,2
+Cyprus,9.17,6.43,6.67,6.88,8.82,2
+Slovenia,9.58,6.79,6.67,6.25,8.24,2
+Lithuania,9.58,6.43,6.11,6.25,9.12,2
+Latvia,9.58,6.07,5.56,6.88,8.82,2
+Greece,9.58,5.36,6.11,6.88,8.53,2
+South Africa,7.42,7.5,8.33,5.0,7.94,2
+India,9.17,6.79,7.22,5.63,7.35,2
+Timor-Leste,9.08,6.79,5.56,6.88,7.65,2
+Trinidad and Tobago,9.58,7.14,6.11,5.63,7.35,2
+Slovakia,9.58,6.79,5.56,5.63,7.94,2
+Panama,9.58,6.07,6.67,5.0,7.94,2
+Bulgaria,9.17,6.43,7.22,4.38,7.94,2
+Argentina,9.17,5.36,6.11,6.25,8.24,2
+Jamaica,8.75,7.14,4.44,6.25,8.53,2
+Suriname,9.17,6.43,6.67,5.0,7.65,2
+Brazil,9.58,5.36,6.67,5.0,8.24,2
+Colombia,9.17,6.79,5.0,5.63,8.24,2
+Malaysia,7.75,7.86,6.67,6.25,5.88,2
+Philippines,9.17,5.71,7.22,4.38,7.06,2
+Poland,9.17,6.07,6.11,4.38,7.65,2
+Guyana,9.17,5.71,6.11,5.0,7.35,2
+Lesotho,9.17,5.0,6.67,5.63,6.76,2
+Ghana,8.33,5.71,6.67,6.25,6.18,2
+Hungary,8.75,6.07,5.0,6.25,7.06,2
+Peru,9.17,5.0,5.56,5.63,7.65,2
+Croatia,9.17,6.07,5.56,5.0,7.06,2
+Dominican Republic,9.17,5.36,6.11,5.0,7.06,2
+Mongolia,9.17,5.71,5.56,5.0,7.06,2
+Serbia,8.25,5.36,6.11,5.0,7.35,2
+Tunisia,6.42,5.71,7.78,6.25,5.88,2
+Indonesia,6.92,7.14,6.67,5.63,5.59,2
+Singapore,4.33,7.86,6.11,6.25,7.35,2
+Romania,9.17,5.71,5.0,4.38,7.65,2
+Ecuador,8.75,5.36,6.11,4.38,6.76,2
+Namibia,5.67,5.36,6.67,5.63,7.94,2
+Paraguay,8.75,5.71,5.0,4.38,7.35,2
+Sri Lanka,7.83,5.71,5.0,6.25,6.18,2
+Mexico,8.33,6.07,7.22,3.13,6.18,2
+Hong Kong,3.08,6.07,5.56,7.5,8.53,2
+Senegal,7.5,6.07,4.44,6.25,6.47,2
+Papua New Guinea,6.92,6.07,3.89,5.63,7.65,2
+Albania,7.0,4.71,5.56,5.0,7.65,1
+El Salvador,9.17,4.29,5.56,3.75,7.06,1
+Macedonia,6.5,5.36,6.67,3.75,7.06,1
+Moldova,7.08,4.64,6.11,4.38,7.06,1
+Fiji,6.58,5.36,6.11,5.63,5.59,1
+Montenegro,6.08,5.36,6.11,4.38,6.76,1
+Benin,6.5,5.71,5.0,5.63,5.88,1
+Bolivia,7.5,4.64,5.56,3.75,7.06,1
+Ukraine,6.17,3.21,6.67,6.25,6.18,1
+Honduras,8.5,4.64,4.44,4.38,6.18,1
+Zambia,6.17,4.64,3.89,6.88,6.47,1
+Guatemala,7.92,5.36,3.89,4.38,6.47,1
+Bangladesh,7.83,5.07,5.56,4.38,5.0,1
+Georgia,7.83,3.57,6.11,4.38,5.59,1
+Malawi,6.58,4.29,4.44,6.25,5.88,1
+Tanzania,7.0,5.0,5.0,5.63,4.41,1
+Mali,7.42,3.93,3.89,5.63,6.18,1
+Liberia,7.42,2.57,5.56,5.63,5.59,1
+Bhutan,8.75,6.79,2.78,4.38,3.82,1
+Madagascar,6.08,3.57,6.11,5.63,4.71,1
+Uganda,5.25,3.57,4.44,6.88,5.88,1
+Nepal,4.33,5.36,5.0,5.63,5.59,1
+Kenya,3.5,5.36,6.67,5.63,4.41,1
+Kyrgyzstan,6.58,2.93,6.67,4.38,5.0,1
+Morocco,5.25,4.64,5.0,5.63,4.41,1
+Bosnia and Herzegovina,6.5,2.93,5.56,3.75,6.18,1
+Haiti,5.58,2.93,3.89,6.25,5.88,1
+Armenia,5.67,4.64,5.56,2.5,5.59,1
+Burkina Faso,4.42,4.29,4.44,5.63,5.0,1
+Sierra Leone,6.58,1.86,3.33,6.25,5.29,1
+Lebanon,3.92,2.21,6.67,5.63,4.71,1
+Thailand,3.0,4.29,5.0,5.0,5.88,1
+Nigeria,6.08,4.64,3.33,3.75,4.41,1
+Palestine,3.83,2.14,7.78,4.38,3.82,1
+Turkey,4.5,5.0,5.0,5.0,2.35,1
+Gambia,4.48,4.29,3.33,5.63,3.82,1
+Pakistan,6.08,5.36,2.22,2.5,4.71,1
+Ivory Coast,4.83,2.86,3.33,5.63,4.12,1
+Iraq,4.75,0.07,6.67,5.0,3.82,1
+Jordan,3.58,4.29,3.89,4.38,3.53,Authoritarian
+Mozambique,3.58,2.14,5.0,5.0,3.53,Authoritarian
+Kuwait,3.17,4.29,3.89,4.38,3.53,Authoritarian
+Myanmar,3.67,3.93,3.89,5.63,2.06,Authoritarian
+Mauritania,3.0,3.57,5.0,3.13,4.41,Authoritarian
+Niger,5.25,1.14,3.33,4.38,4.71,Authoritarian
+Comoros,4.33,2.21,4.44,3.75,3.82,Authoritarian
+Nicaragua,2.67,1.86,3.89,5.63,4.12,Authoritarian
+Angola,1.75,2.86,5.56,5.0,2.94,Authoritarian
+Gabon,2.58,2.21,4.44,5.0,3.82,Authoritarian
+Cambodia,1.33,5.0,2.78,5.63,3.24,Authoritarian
+Algeria,2.58,2.21,3.89,5.0,3.82,Authoritarian
+Egypt,3.58,3.21,3.33,3.75,2.94,Authoritarian
+Ethiopia,0.0,3.57,5.56,5.0,2.65,Authoritarian
+Rwanda,1.67,5.0,2.78,4.38,2.94,Authoritarian
+China,0.0,5.0,3.89,6.25,1.47,Authoritarian
+Republic of the Congo,3.17,2.5,3.89,3.75,3.24,Authoritarian
+Cameroon,3.17,2.86,3.33,4.38,2.65,Authoritarian
+Qatar,0.0,4.29,2.22,5.63,3.82,Authoritarian
+Zimbabwe,0.5,2.0,4.44,5.63,3.24,Authoritarian
+Venezuela,1.67,1.79,4.44,4.38,3.53,Authoritarian
+Guinea,3.5,0.43,4.44,4.38,2.94,Authoritarian
+Belarus,0.92,2.86,3.89,5.63,2.35,Authoritarian
+Togo,3.17,0.79,3.33,5.0,3.24,Authoritarian
+Vietnam,0.0,3.21,3.89,5.63,2.65,Authoritarian
+Oman,0.0,3.93,2.78,4.38,4.12,Authoritarian
+Swaziland,0.92,2.86,2.22,5.63,3.53,Authoritarian
+Cuba,1.08,3.57,3.33,4.38,2.65,Authoritarian
+Afghanistan,2.92,1.14,4.44,2.5,3.82,Authoritarian
+Kazakhstan,0.5,2.14,4.44,4.38,3.24,Authoritarian
+Russia,2.17,1.79,5.0,2.5,3.24,Authoritarian
+Djibouti,0.42,1.79,3.89,5.63,2.65,Authoritarian
+United Arab Emirates,0.0,3.93,2.22,5.0,2.65,Authoritarian
+Bahrain,0.83,3.21,2.78,4.38,2.35,Authoritarian
+Azerbaijan,0.5,2.14,3.33,3.75,3.53,Authoritarian
+Iran,0.0,3.21,4.44,3.13,1.47,Authoritarian
+Eritrea,0.0,2.14,1.67,6.88,1.18,Authoritarian
+Laos,0.83,2.86,1.67,5.0,1.47,Authoritarian
+Burundi,0.0,0.43,3.89,5.0,2.35,Authoritarian
+Libya,1.0,0.36,1.67,5.0,2.94,Authoritarian
+Sudan,0.0,1.79,2.78,5.0,1.18,Authoritarian
+Uzbekistan,0.08,1.86,2.22,5.0,0.88,Authoritarian
+Guinea-Bissau,1.67,0.0,2.78,3.13,2.35,Authoritarian
+Yemen,0.0,0.0,3.89,5.0,0.88,Authoritarian
+Saudi Arabia,0.0,2.86,2.22,3.13,1.47,Authoritarian
+Tajikistan,0.08,0.79,1.67,6.25,0.88,Authoritarian
+Equatorial Guinea,0.0,0.43,3.33,4.38,1.47,Authoritarian
+Turkmenistan,0.0,0.79,2.22,5.0,0.59,Authoritarian
+Chad,0.0,0.0,1.67,3.75,2.65,Authoritarian
+Central African Republic,2.25,0.0,1.11,1.88,2.35,Authoritarian
+Democratic Republic of the Congo,0.5,0.71,2.22,3.13,0.88,Authoritarian
+Syria,0.0,0.0,2.78,4.38,0.0,Authoritarian
+North Korea,0.0,2.5,1.67,1.25,0.0,Authoritarian
